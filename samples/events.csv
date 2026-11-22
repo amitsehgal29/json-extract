@@ -1,0 +1,5 @@
+event_id,payload
+e1,"{""user"": {""id"": ""U1""}, ""amount"": 50.0, ""items"": [{""sku"": ""A1""}, {""sku"": ""A2""}]}"
+e2,"{""user"": {""id"": ""U2""}, ""amount"": 20, ""items"": []}"
+e3,not-json
+e4,"{""user"": {""id"": ""U3""}}"
